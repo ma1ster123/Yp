@@ -30,7 +30,7 @@ const messages = [
     "Ну будь ласка",
     "Будь ласка",
     "БУДЬ ЛАСКА",
-    "БУДЬ ЛАСКА,
+    "БУДЬ ЛАСКА",
     "БУДЬ ЛАСКА",
     "БУДЬ ЛАСКА"
 ];
@@ -51,3 +51,4 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 
 }
+
